@@ -7,3 +7,7 @@ def array_with_two_elements
   nuarray = [1,2]
   nuarray
 end
+
+def first_element(array)
+  array.first
+end
